@@ -1,0 +1,2 @@
+# Light Out Solver
+
